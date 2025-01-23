@@ -1,0 +1,4 @@
+1. Define a structure to store student details (name, age, and marks), take input from the user, and display the details.
+2. Create a structure to store an employee's ID, name, and salary, and write a program to print the details.
+3. Create an array of structures to store information of 5 books (title, author, price) and display them.
+4.Create an array of structure to store  student information and display only those students data who are having phone number with 88 in ending
