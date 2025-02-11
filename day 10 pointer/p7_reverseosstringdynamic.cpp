@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-
 int main()
 {
     int i;
@@ -21,9 +20,5 @@ int main()
     {
         printf("%c", *(ptr+i));
     }
-
-    
-
-
 
 }
